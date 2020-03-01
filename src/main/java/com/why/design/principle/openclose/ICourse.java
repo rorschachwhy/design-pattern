@@ -1,3 +1,5 @@
+package com.why.design.principle.openclose;
+
 import java.math.BigDecimal;
 
 /**

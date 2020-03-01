@@ -1,3 +1,5 @@
+package com.why.design.principle.openclose;
+
 import java.math.BigDecimal;
 
 /**
@@ -10,7 +12,6 @@ public class JavaCourse implements ICourse {
     private Integer id;
     private String name;
     private BigDecimal price;
-
 
     public JavaCourse(Integer id, String name, BigDecimal price) {
         this.id = id;
