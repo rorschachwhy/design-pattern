@@ -2,82 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10160005-7de2-4637-9b2b-99b6cafccb9d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/why/design/principle/demeter/SubtreeOfAnotherTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/why/design/principle/leetcode/KthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/why/design/principle/leetcode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/why/design/principle/leetcode/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/why/design/principle/leetcode/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/why/design/principle/leetcode/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/why/design/principle/leetcode/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/why/design/principle/leetcode/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/why/design/principle/leetcode/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/why/design/principle/leetcode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/why/design/principle/leetcode/temp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ICourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ICourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaCourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/demeter/Boss.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/demeter/Boss.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/demeter/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/demeter/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/demeter/TeamLeader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/demeter/TeamLeader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/demeter/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/demeter/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/dependenceinversion/FECourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/dependenceinversion/FECourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/dependenceinversion/ICourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/dependenceinversion/ICourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/dependenceinversion/JavaCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/dependenceinversion/JavaCourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/dependenceinversion/PyCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/dependenceinversion/PyCourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/dependenceinversion/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/dependenceinversion/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/dependenceinversion/WHY.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/dependenceinversion/WHY.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/interfacesegregation/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/interfacesegregation/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/interfacesegregation/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/interfacesegregation/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/interfacesegregation/IAnimalAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/interfacesegregation/IAnimalAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/interfacesegregation/IEatAnimalAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/interfacesegregation/IEatAnimalAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/interfacesegregation/IFlyAnimalAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/interfacesegregation/IFlyAnimalAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/interfacesegregation/ISwimAnimalAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/interfacesegregation/ISwimAnimalAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/liskovSubstitution/Quadrangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/liskovSubstitution/Quadrangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/liskovSubstitution/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/liskovSubstitution/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/liskovSubstitution/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/liskovSubstitution/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/liskovSubstitution/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/liskovSubstitution/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/openclose/ICourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/openclose/ICourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/openclose/JavaCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/openclose/JavaCourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/openclose/JavaDiscountCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/openclose/JavaDiscountCourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/openclose/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/openclose/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/CourseImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/CourseImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/FlyBird.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/FlyBird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/ICourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/ICourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/ICourseContent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/ICourseContent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/ICourseManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/ICourseManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/Method.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/Method.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/WalkBird.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/why/design/principle/singleresponsibility/WalkBird.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Base.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/liskovSubstitution/methodInput/Base.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-              <folding>
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/openclose/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubtreeOfAnotherTree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/demeter/SubtreeOfAnotherTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
-              <folding>
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ICourse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/openclose/ICourse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaDiscountCourse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/openclose/JavaDiscountCourse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaCourse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/openclose/JavaCourse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -86,119 +65,98 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>work</find>
-    </findStrings>
-    <dirStrings>
-      <dir>C:\Users\mi\Documents\workInMi\micode\design-pattern</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/why/design/principle/demeter/SubtreeOfAnotherTree.java" />
-      </list>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="726" />
-  </component>
+  <component name="ProjectId" id="1ifrJjE3aXHBQMGWSTmuFJRU3xW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <hideEmptyPackages ProjectPane="true" />
-      <autoscrollFromSource ProjectPane="true" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="AndroidView" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="demeter" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SONARLINT_ANALYSIS_RESULTS_SPLIT_PROPORTION" value="0.46401986" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.why.design.principle.leetcode" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.why.design.principle.leetcode.Main" />
+      <module name="design-pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.why.design.principle.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.why.design.principle.leetcode.Main2" />
+      <module name="design-pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.why.design.principle.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.why.design.principle.leetcode.Main3" />
+      <module name="design-pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.why.design.principle.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.why.design.principle.leetcode.Main5" />
+      <module name="design-pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.why.design.principle.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="SubtreeOfAnotherTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.why.design.principle.demeter.SubtreeOfAnotherTree" />
@@ -210,63 +168,47 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main5" />
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.SubtreeOfAnotherTree" />
       </list>
     </recent_temporary>
@@ -282,676 +224,105 @@
       <option name="presentableId" value="Default" />
       <updated>1583112241488</updated>
       <workItem from="1583112243030" duration="442000" />
-      <workItem from="1588859054413" duration="2887000" />
+      <workItem from="1588859054413" duration="3107000" />
+      <workItem from="1593695386080" duration="487000" />
+      <workItem from="1593779652427" duration="114000" />
+      <workItem from="1602309421149" duration="24993000" />
+      <workItem from="1603289530949" duration="13182000" />
+      <workItem from="1604388726789" duration="382000" />
+      <workItem from="1604478449601" duration="16041000" />
+      <workItem from="1604995649427" duration="81000" />
+      <workItem from="1605021970465" duration="2243000" />
+      <workItem from="1605156379773" duration="2561000" />
+      <workItem from="1605243980326" duration="239000" />
+      <workItem from="1605436507667" duration="2530000" />
+      <workItem from="1605539760848" duration="159000" />
+      <workItem from="1606033570947" duration="1611000" />
+      <workItem from="1606129955708" duration="512000" />
+      <workItem from="1606277243024" duration="312000" />
+      <workItem from="1613639297862" duration="111000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3515000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="726" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32673267" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.14191419" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28432956" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39933994" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/why/design/principle/demeter/SubtreeOfAnotherTree.java</url>
-          <line>32</line>
-          <properties class="com.why.design.principle.demeter.SubtreeOfAnotherTree.Solution" method="isSubtree">
-            <option name="EMULATED" value="true" />
-          </properties>
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="1" />
-    </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/openclose/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/openclose/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/openclose/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/openclose/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/openclose/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement />
-          <nodes>
-            <node x="331.0" y="676.0">com</node>
-            <node x="0.0" y="602.0">netscape</node>
-            <node x="363.0" y="602.0">oracle</node>
-            <node x="0.0" y="750.0">org</node>
-            <node x="429.0" y="528.0">resources</node>
-            <node x="108.0" y="0.0">com.why.design.principle.openclose.ICourse</node>
-            <node x="28.5" y="145.0">com.why.design.principle.openclose.JavaCourse</node>
-            <node x="284.0" y="454.0">toolbarButtonGraphics</node>
-            <node x="647.0" y="676.0">sun</node>
-            <node x="233.0" y="528.0">META-INF</node>
-            <node x="153.0" y="750.0">jdk</node>
-            <node x="0.0" y="676.0">apple</node>
-            <node x="0.0" y="528.0">groovyjarjarasm</node>
-            <node x="490.0" y="676.0">java</node>
-            <node x="188.0" y="602.0">groovy</node>
-            <node x="166.0" y="676.0">javax</node>
-            <node x="418.0" y="0.0">com.why.design.principle.openclose.Test</node>
-            <node x="0.0" y="313.0">com.why.design.principle.openclose.JavaDiscountCourse</node>
-            <node x="0.0" y="454.0">groovyjarjarcommonscli</node>
-            <node x="533.0" y="602.0">javafx</node>
-            <node x="557.0" y="454.0">groovyjarjarantlr</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.why.design.principle.openclose.JavaDiscountCourse" target="com.why.design.principle.openclose.JavaCourse">
-              <point x="0.0" y="-48.0" />
-              <point x="0.0" y="59.0" />
-            </edge>
-            <edge source="com.why.design.principle.openclose.JavaCourse" target="com.why.design.principle.openclose.ICourse">
-              <point x="0.0" y="-59.0" />
-              <point x="0.0" y="47.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.6405529953917051" x="-31.0" y="355.0" />
-          <SelectedNodes>
-            <node>com</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/dependenceinversion/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/dependenceinversion/FECourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#204#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/dependenceinversion/PyCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/dependenceinversion/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-end-line="10" />
-          <folding>
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.why.design.principle.dependenceinversion">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.why.design.principle.dependenceinversion</OriginalElement>
-          <nodes>
-            <node x="0.0" y="197.0">com.why.design.principle.dependenceinversion.WHY</node>
-            <node x="206.0" y="101.0">com.why.design.principle.dependenceinversion.FECourse</node>
-            <node x="412.0" y="101.0">com.why.design.principle.dependenceinversion.JavaCourse</node>
-            <node x="231.0" y="197.0">com.why.design.principle.dependenceinversion.Test</node>
-            <node x="0.0" y="101.0">com.why.design.principle.dependenceinversion.PyCourse</node>
-            <node x="206.0" y="0.0">com.why.design.principle.dependenceinversion.ICourse</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.why.design.principle.dependenceinversion.PyCourse" target="com.why.design.principle.dependenceinversion.ICourse">
-              <point x="0.0" y="-25.5" />
-              <point x="93.0" y="76.0" />
-              <point x="237.0" y="76.0" />
-              <point x="-62.0" y="25.5" />
-            </edge>
-            <edge source="com.why.design.principle.dependenceinversion.JavaCourse" target="com.why.design.principle.dependenceinversion.ICourse">
-              <point x="0.0" y="-25.5" />
-              <point x="505.0" y="76.0" />
-              <point x="361.0" y="76.0" />
-              <point x="62.0" y="25.5" />
-            </edge>
-            <edge source="com.why.design.principle.dependenceinversion.FECourse" target="com.why.design.principle.dependenceinversion.ICourse">
-              <point x="0.0" y="-25.5" />
-              <point x="0.0" y="25.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-84.0" y="123.0" />
-          <SelectedNodes>
-            <node>com.why.design.principle.dependenceinversion.WHY</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/dependenceinversion/WHY.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
-          <folding>
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/dependenceinversion/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/singleresponsibility/FlyBird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/singleresponsibility/WalkBird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/singleresponsibility/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/singleresponsibility/Bird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="25" selection-start-line="14" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.why.design.principle.singleresponsibility">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.why.design.principle.singleresponsibility</OriginalElement>
-          <nodes>
-            <node x="0.0" y="197.0">com.why.design.principle.singleresponsibility.ICourse</node>
-            <node x="160.5" y="101.0">com.why.design.principle.singleresponsibility.Test</node>
-            <node x="262.0" y="0.0">com.why.design.principle.singleresponsibility.WalkBird</node>
-            <node x="237.0" y="197.0">com.why.design.principle.singleresponsibility.Bird</node>
-            <node x="0.0" y="0.0">com.why.design.principle.singleresponsibility.FlyBird</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.why.design.principle.singleresponsibility.Test" target="com.why.design.principle.singleresponsibility.FlyBird">
-              <point x="-68.625" y="-25.5" />
-              <point x="183.375" y="81.0" />
-              <point x="60.5" y="81.0" />
-              <point x="-60.5" y="25.5" />
-            </edge>
-            <edge source="com.why.design.principle.singleresponsibility.Test" target="com.why.design.principle.singleresponsibility.WalkBird">
-              <point x="22.875" y="-25.5" />
-              <point x="274.875" y="71.0" />
-              <point x="322.5" y="71.0" />
-              <point x="-60.5" y="25.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-109.0" y="120.0" />
-          <SelectedNodes>
-            <node>com.why.design.principle.singleresponsibility.FlyBird</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/singleresponsibility/ICourseContent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/singleresponsibility/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/singleresponsibility/CourseImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/singleresponsibility/ICourseManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/singleresponsibility/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-          <folding>
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/interfacesegregation/IAnimalAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" selection-start-line="9" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/interfacesegregation/IFlyAnimalAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/interfacesegregation/IEatAnimalAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/interfacesegregation/ISwimAnimalAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/interfacesegregation/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/interfacesegregation/Bird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.why.design.principle.interfacesegregation">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.why.design.principle.interfacesegregation</OriginalElement>
-          <nodes>
-            <node x="" y="">com.why.design.principle.interfacesegregation.IFlyAnimalAction</node>
-            <node x="" y="">com.why.design.principle.interfacesegregation.Bird</node>
-            <node x="" y="">com.why.design.principle.interfacesegregation.IEatAnimalAction</node>
-            <node x="" y="">com.why.design.principle.interfacesegregation.ISwimAnimalAction</node>
-            <node x="" y="">com.why.design.principle.interfacesegregation.Dog</node>
-            <node x="" y="">com.why.design.principle.interfacesegregation.IAnimalAction</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="55.0" y="123.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/demeter/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/demeter/TeamLeader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#282#290#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/demeter/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.why.design.principle.demeter">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.why.design.principle.demeter</OriginalElement>
-          <nodes>
-            <node x="260.8333333333333" y="0.0">com.why.design.principle.demeter.Course</node>
-            <node x="183.80555555555554" y="281.0">com.why.design.principle.demeter.Test</node>
-            <node x="0.0" y="180.0">com.why.design.principle.demeter.Boss</node>
-            <node x="166.72222222222217" y="79.0">com.why.design.principle.demeter.TeamLeader</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.why.design.principle.demeter.TeamLeader" target="com.why.design.principle.demeter.Course">
-              <point x="-63.25" y="-25.5" />
-              <point x="229.97222222222217" y="54.0" />
-              <point x="283.8333333333333" y="54.0" />
-              <point x="-23.0" y="14.5" />
-            </edge>
-            <edge source="com.why.design.principle.demeter.Test" target="com.why.design.principle.demeter.Boss">
-              <point x="-68.625" y="-25.5" />
-              <point x="206.68055555555554" y="261.0" />
-              <point x="83.25" y="261.0" />
-              <point x="-83.25" y="25.5" />
-            </edge>
-            <edge source="com.why.design.principle.demeter.Test" target="com.why.design.principle.demeter.TeamLeader">
-              <point x="68.625" y="-25.5" />
-              <point x="343.93055555555554" y="261.0" />
-              <point x="354.5" y="261.0" />
-              <point x="354.5" y="155.0" />
-              <point x="377.5555555555555" y="155.0" />
-              <point x="84.33333333333331" y="25.5" />
-            </edge>
-            <edge source="com.why.design.principle.demeter.Boss" target="com.why.design.principle.demeter.TeamLeader">
-              <point x="0.0" y="-25.5" />
-              <point x="166.5" y="155.0" />
-              <point x="208.88888888888886" y="155.0" />
-              <point x="-84.33333333333331" y="25.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-134.0" y="165.0" />
-          <SelectedNodes>
-            <node>com.why.design.principle.demeter.Boss</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/demeter/Boss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/liskovSubstitution/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-          <folding>
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/liskovSubstitution/Quadrangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/liskovSubstitution/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-          <folding>
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/liskovSubstitution/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="29" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/liskovSubstitution/methodInput/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="618" column="58" selection-start-line="618" selection-start-column="58" selection-end-line="618" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml.LOCAL.xml" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/openclose/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/openclose/JavaDiscountCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/openclose/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/openclose/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/why/design/principle/demeter/SubtreeOfAnotherTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
-          <folding>
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="371" y="195" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603258822607">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="371" y="195" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.726@0.23.1280.726" timestamp="1603258822607" />
+    <state x="453" y="107" key="#com.intellij.ide.util.MemberChooser" timestamp="1604736361544">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="453" y="107" key="#com.intellij.ide.util.MemberChooser/0.23.1280.722@0.23.1280.722" timestamp="1604736361544" />
+    <state width="1238" height="142" key="GridCell.Tab.0.bottom" timestamp="1605539928974">
+      <screen x="0" y="25" width="1280" height="715" />
+    </state>
+    <state width="1238" height="146" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1604736382475" />
+    <state width="1238" height="146" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1604639388688" />
+    <state width="1238" height="215" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1604281489611" />
+    <state width="1238" height="213" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1603458609779" />
+    <state width="1238" height="208" key="GridCell.Tab.0.bottom/0.23.1280.734@0.23.1280.734" timestamp="1603418933148" />
+    <state width="1238" height="146" key="GridCell.Tab.0.bottom/0.23.1440.822/-1920.23.1920.1057@0.23.1440.822" timestamp="1604993308372" />
+    <state width="1238" height="142" key="GridCell.Tab.0.bottom/0.25.1280.715@0.25.1280.715" timestamp="1605539928974" />
+    <state width="1238" height="142" key="GridCell.Tab.0.center" timestamp="1605539928966">
+      <screen x="0" y="25" width="1280" height="715" />
+    </state>
+    <state width="1238" height="146" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1604736382474" />
+    <state width="1238" height="146" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1604639388686" />
+    <state width="1238" height="215" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1604281489611" />
+    <state width="1238" height="213" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1603458609778" />
+    <state width="1238" height="208" key="GridCell.Tab.0.center/0.23.1280.734@0.23.1280.734" timestamp="1603418933147" />
+    <state width="1238" height="146" key="GridCell.Tab.0.center/0.23.1440.822/-1920.23.1920.1057@0.23.1440.822" timestamp="1604993308369" />
+    <state width="1238" height="142" key="GridCell.Tab.0.center/0.25.1280.715@0.25.1280.715" timestamp="1605539928966" />
+    <state width="1238" height="142" key="GridCell.Tab.0.left" timestamp="1605539928965">
+      <screen x="0" y="25" width="1280" height="715" />
+    </state>
+    <state width="1238" height="146" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1604736382474" />
+    <state width="1238" height="146" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1604639388683" />
+    <state width="1238" height="215" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1604281489610" />
+    <state width="1238" height="213" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1603458609777" />
+    <state width="1238" height="208" key="GridCell.Tab.0.left/0.23.1280.734@0.23.1280.734" timestamp="1603418933145" />
+    <state width="1238" height="146" key="GridCell.Tab.0.left/0.23.1440.822/-1920.23.1920.1057@0.23.1440.822" timestamp="1604993308364" />
+    <state width="1238" height="142" key="GridCell.Tab.0.left/0.25.1280.715@0.25.1280.715" timestamp="1605539928965" />
+    <state width="1238" height="142" key="GridCell.Tab.0.right" timestamp="1605539928973">
+      <screen x="0" y="25" width="1280" height="715" />
+    </state>
+    <state width="1238" height="146" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1604736382474" />
+    <state width="1238" height="146" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1604639388687" />
+    <state width="1238" height="215" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1604281489611" />
+    <state width="1238" height="213" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1603458609778" />
+    <state width="1238" height="208" key="GridCell.Tab.0.right/0.23.1280.734@0.23.1280.734" timestamp="1603418933147" />
+    <state width="1238" height="146" key="GridCell.Tab.0.right/0.23.1440.822/-1920.23.1920.1057@0.23.1440.822" timestamp="1604993308371" />
+    <state width="1238" height="142" key="GridCell.Tab.0.right/0.25.1280.715@0.25.1280.715" timestamp="1605539928973" />
+    <state width="1238" height="215" key="GridCell.Tab.1.bottom" timestamp="1604281489613">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1238" height="215" key="GridCell.Tab.1.bottom/0.23.1280.726@0.23.1280.726" timestamp="1604281489613" />
+    <state width="1238" height="215" key="GridCell.Tab.1.bottom/0.23.1280.732@0.23.1280.732" timestamp="1603456188852" />
+    <state width="1238" height="215" key="GridCell.Tab.1.center" timestamp="1604281489612">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1238" height="215" key="GridCell.Tab.1.center/0.23.1280.726@0.23.1280.726" timestamp="1604281489612" />
+    <state width="1238" height="215" key="GridCell.Tab.1.center/0.23.1280.732@0.23.1280.732" timestamp="1603456188850" />
+    <state width="1238" height="215" key="GridCell.Tab.1.left" timestamp="1604281489612">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1238" height="215" key="GridCell.Tab.1.left/0.23.1280.726@0.23.1280.726" timestamp="1604281489612" />
+    <state width="1238" height="215" key="GridCell.Tab.1.left/0.23.1280.732@0.23.1280.732" timestamp="1603456188849" />
+    <state width="1238" height="215" key="GridCell.Tab.1.right" timestamp="1604281489612">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1238" height="215" key="GridCell.Tab.1.right/0.23.1280.726@0.23.1280.726" timestamp="1604281489612" />
+    <state width="1238" height="215" key="GridCell.Tab.1.right/0.23.1280.732@0.23.1280.732" timestamp="1603456188850" />
+    <state x="141" y="23" key="SettingsEditor" timestamp="1604736539296">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="141" y="23" key="SettingsEditor/0.23.1280.722@0.23.1280.722" timestamp="1604736539296" />
+    <state x="298" y="142" width="683" height="486" key="find.popup" timestamp="1602762753369">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state x="298" y="142" width="683" height="486" key="find.popup/0.23.1280.725@0.23.1280.725" timestamp="1602762753369" />
   </component>
 </project>
